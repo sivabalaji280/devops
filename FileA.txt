@@ -1,1 +1,2 @@
 "This is simple file"-FileA version 1 
+"This is another change" - File A version 2
